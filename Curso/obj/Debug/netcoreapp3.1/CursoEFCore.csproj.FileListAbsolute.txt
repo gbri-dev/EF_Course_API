@@ -1,0 +1,5 @@
+C:\Users\gabriel.silva\source\repos\desenvolvedor_io\Curso\obj\Debug\netcoreapp3.1\CursoEFCore.csproj.AssemblyReference.cache
+C:\Users\gabriel.silva\source\repos\desenvolvedor_io\Curso\obj\Debug\netcoreapp3.1\CursoEFCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.silva\source\repos\desenvolvedor_io\Curso\obj\Debug\netcoreapp3.1\CursoEFCore.AssemblyInfoInputs.cache
+C:\Users\gabriel.silva\source\repos\desenvolvedor_io\Curso\obj\Debug\netcoreapp3.1\CursoEFCore.AssemblyInfo.cs
+C:\Users\gabriel.silva\source\repos\desenvolvedor_io\Curso\obj\Debug\netcoreapp3.1\CursoEFCore.csproj.CoreCompileInputs.cache
